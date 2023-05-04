@@ -1,9 +1,9 @@
 # nerd-fonts
-source fonts: https://github.com/oswystan/code-fonts
+- source fonts: https://github.com/oswystan/code-fonts
 
-font patcher script: https://github.com/ryanoasis/nerd-fonts/releases/latest/download/FontPatcher.zip
+- font patcher script: https://github.com/ryanoasis/nerd-fonts/releases/latest/download/FontPatcher.zip
 
-convert all ttf or otf to nerd fonts
+- convert all ttf or otf to nerd fonts
 
 ```shell
 $ wget https://github.com/ryanoasis/nerd-fonts/releases/latest/download/FontPatcher.zip
